@@ -2,8 +2,7 @@
 <layout>
     <default>
         <reference name="after_body_start">
-            <block type="carlosasin_afterbodystart/html" name="after.body.start" before="_"
-                   template="carlosasin/afterbodystart/after_body_start.phtml"></block>
+            <block type="carlosasin_afterbodystart/html" name="after.body.start" template="carlosasin/afterbodystart/html.phtml" />
         </reference>
     </default>
 </layout>
