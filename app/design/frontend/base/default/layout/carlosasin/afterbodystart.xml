@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="after_body_start">
+            <block type="carlosasin_afterbodystart/html" name="after.body.start" as="afterbodystart"
+                   template="carlosasin/afterbodystart/after_body_start.phtml"></block>
+        </reference>
+    </default>
+</layout>

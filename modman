@@ -1,0 +1,4 @@
+app/code/local/Carlosasin/AfterBodyStart app/code/local/Carlosasin/AfterBodyStart
+app/design/frontend/base/default/layout/carlosasin/afterbodystart.xml app/design/frontend/base/default/layout/carlosasin/afterbodystart.xml
+app/design/frontend/base/default/template/carlosasin/after_body_start.phtml app/design/frontend/base/default/template/carlosasin/after_body_start.phtml
+app/etc/modules/Carlosasin_AfterBodyStart.xml app/etc/modules/Carlosasin_AfterBodyStart.xml

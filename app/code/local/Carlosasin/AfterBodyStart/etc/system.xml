@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <sections>
+        <design translate="label" module="core">
+            <groups>
+                <header translate="label">
+                    <fields>
+                        <after_body_start translate="label comment">
+                            <label>Miscellaneous Html</label>
+                            <comment>This will be included before head starts tag in page HTML.</comment>
+                            <frontend_type>textarea</frontend_type>
+                            <sort_order>60</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </after_body_start>
+                    </fields>
+                </header>
+            </groups>
+        </design>
+    </sections>
+</config>

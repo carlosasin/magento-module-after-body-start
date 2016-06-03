@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Carlosasin_AfterBodyStart>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Carlosasin_AfterBodyStart>
+    </modules>
+</config>

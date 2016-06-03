@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Carlosasin_AfterBodyStart>
+            <version>0.1.0</version>
+        </Carlosasin_AfterBodyStart>
+    </modules>
+    <global>
+        <blocks>
+            <carlosasin_afterbodystart>
+                <class>Carlosasin_AfterBodyStart_Block</class>
+            </carlosasin_afterbodystart>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <carlosasin_afterbodystart>
+                    <file>carlosasin/afterbodystart.xml</file>
+                </carlosasin_afterbodystart>
+            </updates>
+        </layout>
+    </frontend>
+</config>
